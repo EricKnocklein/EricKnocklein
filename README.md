@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
+
 # Hi, I'm Eric Knocklein
 [Website](https://ericknock.dev/) • [LinkedIn](https://www.linkedin.com/in/eric-knocklein-592a331b5/)
 

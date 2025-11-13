@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/LangChain-grey?style=for-the-badge&logo=langchain)
 ![](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
